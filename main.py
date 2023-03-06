@@ -5,6 +5,8 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(
+    page_title= 'Mapa de talentos - AYI Group',
+    page_icon='🗺️',
     layout="wide",
     menu_items={
         "Get help": None,
